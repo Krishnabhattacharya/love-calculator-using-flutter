@@ -1,16 +1,2 @@
-# love_calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+screenshots..
+![Photo Collage Maker_2023_03_02_07_05_09](https://user-images.githubusercontent.com/99496645/222443909-cfe77452-e41e-4ff0-ae9d-abf6b34e7d0b.png)
